@@ -1,0 +1,19 @@
+.wufoo .info{
+color: #34657f !important;
+}
+
+.wufoo .info {
+     margin-bottom: 10px; 
+
+}
+
+.wufoo .info h2 {
+	margin-top: 0px;
+     margin-bottom: 0px; 
+     color: #34657f !important;
+	display:none;
+}
+
+.wufoo .info div {
+     padding-bottom: 0px; 
+}
